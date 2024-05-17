@@ -4,7 +4,7 @@ I only use this account for collaborations on projects hosted on GitHub.
 
 My main work can be found on https://codeberg.org/hut
 
-> Why not on GitHub? It's so much more visible/convenient!
+> "Why not on GitHub? It's so much more visible/convenient!"
 
 Sure, it is. But come on. Seriously? Hosting free/open source software on a commercial, closed-source platform run by Microsoft? I can not comprehend how this is an actual thing.
 
