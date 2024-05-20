@@ -2,7 +2,7 @@
 
 I only use this account for collaborations on projects hosted on GitHub.
 
-My main work can be found on https://codeberg.org/hut
+My main work can be found on https://codeberg.org/yuni
 
 > "Why not on GitHub? It's so much more visible/convenient!"
 
